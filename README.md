@@ -6,7 +6,7 @@ Media Plugin by [James Montemagno](https://github.com/jamesmontemagno) (https://
 
 Gallery :
 
-![](https://github.com/TBertuzzi/ImageGalleryXamarinForms/blob/master/Resources/View.png?raw=true)
+![Gallery|331x417, 20%](https://github.com/TBertuzzi/ImageGalleryXamarinForms/blob/master/Resources/View.png?raw=true)
 
 Upload :
 
