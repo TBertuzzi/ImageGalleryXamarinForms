@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms.Android/ImageGalleryXamarinForms.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms.Android/ImageGalleryXamarinForms.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms.Android/ImageGalleryXamarinForms.Android.csproj",
+        "projectName": "ImageGalleryXamarinForms.Android",
+        "projectPath": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms.Android/ImageGalleryXamarinForms.Android.csproj",
+        "packagesPath": "/Users/bertuzzi/.nuget/packages/",
+        "outputPath": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/bertuzzi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/ImageGalleryXamarinForms.csproj": {
+                "projectPath": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/ImageGalleryXamarinForms.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[1.4.19, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/ImageGalleryXamarinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/ImageGalleryXamarinForms.csproj",
+        "projectName": "ImageGalleryXamarinForms",
+        "projectPath": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/ImageGalleryXamarinForms.csproj",
+        "packagesPath": "/Users/bertuzzi/.nuget/packages/",
+        "outputPath": "/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bertuzzi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[4.0.1.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[1.4.19, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

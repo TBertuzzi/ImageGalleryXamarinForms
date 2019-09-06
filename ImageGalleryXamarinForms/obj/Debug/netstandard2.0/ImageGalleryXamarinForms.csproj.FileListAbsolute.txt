@@ -1,0 +1,12 @@
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/UploadPage.xaml.g.cs
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/ImageGalleryXamarinForms.csproj.CoreCompileInputs.cache
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/ImageGalleryXamarinForms.AssemblyInfoInputs.cache
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/ImageGalleryXamarinForms.AssemblyInfo.cs
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/bin/Debug/netstandard2.0/ImageGalleryXamarinForms.deps.json
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/bin/Debug/netstandard2.0/ImageGalleryXamarinForms.dll
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/bin/Debug/netstandard2.0/ImageGalleryXamarinForms.pdb
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/ImageGalleryXamarinForms.dll
+/Users/bertuzzi/Desktop/ImageGalleryXamarinForms/ImageGalleryXamarinForms/obj/Debug/netstandard2.0/ImageGalleryXamarinForms.pdb
